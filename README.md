@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keshabh
-- 👀 I’m interested in Data Engineering and the world of AI.
-- 🌱 I’m currently learning Data Engineering.
+- 👀 I’m interested in Machine Learning and Data Science the world of AI.
+- 🌱 I’m currently learning Agentic AI.
 - 💞️ I’m looking to collaborate on any python or Data Science Projects.
 - 📫 Reach me via my mail: keshabh78@gmail.com
 
